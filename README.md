@@ -1,4 +1,11 @@
-### Hi there 👋
+### Good day to you, fellow traveler! 👋
+
+Student, with no set goal for now.  
+Probably will learn C#, WebDev. Maybe Kotlin in future. 
+
+- 📫 How to reach me: currently? There is no way for now.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurWolfhound&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **ArthurWolfhound/ArthurWolfhound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
