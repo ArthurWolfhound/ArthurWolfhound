@@ -20,9 +20,9 @@ I am also interested in web development due to low entry level.
 </a>
 <a href="https://github.com/ArthurWolfhound/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurWolfhound&layout=compact&show_icons=true&theme=onedark" />
-</a>
+</a><br>
 
-Beautiful README thanks to <br> [![](https://img.shields.io/badge/anuraghazra-github--readme--stats-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
+Beautiful README thanks to ❤ [Shields Project](https://github.com/badges/shields) and <br> [![](https://img.shields.io/badge/anuraghazra-github--readme--stats-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ArthurWolfhound/ArthurWolfhound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
