@@ -1,11 +1,26 @@
-### Good day to you, fellow traveler! 👋
+### Hello! 👋
 
 Student, with no set goal for now.  
-Probably will learn C#, WebDev. Maybe Kotlin in future. 
+I haven't picked particular field of work to go into in the future.
+Currently I am equally interested in Python, C#. Potential Android Development (Kotlin, maybe Flutter/Dart but not sure).
+I am also interested in web development due to low entry level.
 
-- 📫 How to reach me: currently? There is no way for now.
+- 📫 How to reach me: I am only a beginner, so I am not accepting any collaboration or job proposals. Thank you.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurWolfhound&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+
+![](https://img.shields.io/badge/C%23-Beginner-gray?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=brightgreen)
+![](https://img.shields.io/badge/Python-Beginner-gray?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
+
+<a href="https://github.com/ArthurWolfhound/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurWolfhound&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/ArthurWolfhound/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurWolfhound&layout=compact&show_icons=true&theme=onedark" />
+</a>
 
 <!--
 **ArthurWolfhound/ArthurWolfhound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
